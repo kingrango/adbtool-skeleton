@@ -1,0 +1,10 @@
+C:\Users\Rango\Desktop\ADBTOOL\ADBTOOL\bin\Debug\ADBTOOL.exe.config
+C:\Users\Rango\Desktop\ADBTOOL\ADBTOOL\bin\Debug\ADBTOOL.exe
+C:\Users\Rango\Desktop\ADBTOOL\ADBTOOL\bin\Debug\ADBTOOL.pdb
+C:\Users\Rango\Desktop\ADBTOOL\ADBTOOL\obj\Debug\ADBTOOL.csproj.AssemblyReference.cache
+C:\Users\Rango\Desktop\ADBTOOL\ADBTOOL\obj\Debug\ADBTOOL.Form1.resources
+C:\Users\Rango\Desktop\ADBTOOL\ADBTOOL\obj\Debug\ADBTOOL.Properties.Resources.resources
+C:\Users\Rango\Desktop\ADBTOOL\ADBTOOL\obj\Debug\ADBTOOL.csproj.GenerateResource.cache
+C:\Users\Rango\Desktop\ADBTOOL\ADBTOOL\obj\Debug\ADBTOOL.csproj.CoreCompileInputs.cache
+C:\Users\Rango\Desktop\ADBTOOL\ADBTOOL\obj\Debug\ADBTOOL.exe
+C:\Users\Rango\Desktop\ADBTOOL\ADBTOOL\obj\Debug\ADBTOOL.pdb
